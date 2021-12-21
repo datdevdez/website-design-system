@@ -1,0 +1,113 @@
+/******************** 1. BODY AND MAIN SECTION ********************/
+
+body {
+    background-color: rgb(218, 218, 218);
+    color: rgb(42, 71, 115);
+    max-width: 1200px;
+    min-width: 960px;
+    margin: 0px auto;
+    font-family: Sans-Serif;
+}
+
+#colors,
+#fonts,
+#text-styles {
+    border: 3px solid rgb(0,0,0);
+    background-color: rgb(255,255,255);
+    padding: 10px 30px;
+    margin: 40px auto;
+    font-size: 15px;
+}
+
+
+/******************** 2. HEADER SECTION ********************/
+
+header {
+    font-family: Serif;
+}
+
+.main-header {
+    font-size: 50px;
+}
+
+.sub-headings {
+    font-size: 40px;
+}
+
+
+/******************** 3. COLOR SECTION ********************/
+
+.color-box {
+    display: inline-block;
+    color: rgb(255,255,255);
+}
+
+.color-box p {
+    margin-right: 80px;
+    border-radius: 100px;
+    padding: 30px;
+}
+
+#slate {
+    background-color: rgb(77, 92, 115)
+}
+
+#rhino {
+    background-color: rgb(42, 71, 115);
+}
+
+#tufts-blue {
+    background-color: rgb(71, 119, 191)
+}
+
+
+#cornflower-blue {
+    background-color: rgb(90, 151, 242)
+}
+
+#pastel-blue {
+    background-color: rgb(164, 196, 244)
+}
+
+
+/******************** 4. FONTS SECTION ********************/
+
+.fonts {
+    display: inline-block;
+    margin-right: 150px;
+}
+
+#lato,
+#lato h3 {
+    font-family: Lato;
+}
+
+#slabo,
+#slabo h3 {
+    font-family: 'Slabo 13px';
+}
+
+
+/******************** 5. TEXT STYLES SECTION ********************/
+
+#p-example{
+    margin-top: 50px;
+}
+
+
+/******************** 6. FOOTER SECTION ********************/
+
+footer {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+/******************** 7. STYLING SECTION ********************/
+
+.bold {
+    font-weight: bold;
+}
+
+.italics {
+    font-style: italic;
+}
