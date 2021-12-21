@@ -2,7 +2,7 @@ Project Name: Website Design System
 
 Project Developer: Dezmond Williams
 
-Project Link: https://datdevdez.github.io/websitedesignsystem/
+Project Link: https://datdevdez.github.io/website-design-system/
 
 Project Description:
 
