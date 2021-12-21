@@ -11,5 +11,5 @@ In this project, you’ll be building your own basic design system for a website
 Folder contains:
 
 	index.html (webpage html framework)
-	styles.css (CSS stylesheet)
+	styles folder (CSS stylesheets)
 
